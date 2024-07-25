@@ -1,6 +1,6 @@
 GitHub Actions에 워크플로우를 작성해 다음과 같이 배포가 진행되도록 함
 
-![개요](https://file.notion.so/f/f/83c75a39-3aba-4ba4-a792-7aefe4b07895/6912169d-ce70-41bf-b624-946d4ee984eb/Untitled.png?id=85426052-e1c3-43af-bfb0-4dea20954fc0&table=block&spaceId=83c75a39-3aba-4ba4-a792-7aefe4b07895&expirationTimestamp=1722038400000&signature=ZcRd8Kee9jOSTXVrXwb-0MnkmqTRTUaD0R-Pg6AY8iI&downloadName=Untitled.png)
+![개요](./image.png)
 
 1. 저장소를 체크아웃합니다.
 2. Node.js 18.x 버전을 설정합니다.
